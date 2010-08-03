@@ -34,7 +34,7 @@ action "Size" shows the exact dimensions of the browser viewport size of each vi
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.0.1 =
 * Initial release.
 
 = 0.0.5 =
