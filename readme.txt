@@ -3,7 +3,7 @@ Contributors: beantin
 Tags: plugin, viewport, measure, browser, google, analytics, statstics, google analytics
 Requires at least: 3.0.0
 Tested up to: 3.0.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 Captures the viewport size of visitors' browser window and stores it as events in Google Analytics
 
