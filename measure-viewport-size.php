@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Measure Viewport Size
-Plugin URI: http://beantn.se/#utm_source=wordpress&utm_medium=plugin&utm_campaign=measure-viewport-size&utm_content=v100
+Plugin URI: http://beantin.se/#utm_source=wordpress&utm_medium=plugin&utm_campaign=measure-viewport-size&utm_content=v100
 Description: Measure browser viewport size and record in Google Analytics
-Version: 1.0.1
+Version: 1.0.2
 Author: James Royal-Lawson
 Author URI: http://beantin.se
 License: GPL

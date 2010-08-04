@@ -1,26 +1,22 @@
 === Measure Viewport Size ===
 Contributors: beantin
 Tags: plugin, viewport, measure, browser, google, analytics, statstics, google analytics
-Requires at least: 3.0.0
+Requires at least: 2.8.0
 Tested up to: 3.0.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 Captures the viewport size of visitors' browser window and stores it as events in Google Analytics
 
 == Description ==
 
-Using a javascript event triggered by the onload event, this plug in measures the browser viewport size of your visitor's browser and 
-sends the result to your Google Analytics account as an event.
+Using a javascript event triggered by the onload event, this plug in measures the browser viewport size of your visitor's browser and sends the result to your Google Analytics account as an event.
 
-You must have Google Analytics installed on your site and use  _gaq as the object name.
+You must have the asynchronous Google Analytics tracking script installed on your site and use _gaq as the object name.
 The template you are using must support the body_class filter hook introduced in wordpress 2.8
 
-Details on the technique behind this solution can be found here
-http://beantin.se/post/354097397/track-viewport-google-analytics
+Details on the technique behind this solution can be found here http://beantin.se/post/354097397/track-viewport-google-analytics
 
-To view the results, log in to your Google Analytics account (but wait a day for GA to process the data) and look at Content -> Event 
-Tracking. In that report you will see and event called "Viewport" with three actions; "Width", "Height", and "Size". The label within the 
-action "Size" shows the exact dimensions of the browser viewport size of each visitor to your site.
+To view the results, log in to your Google Analytics account (but wait a day for GA to process the data) and look at Content -> Event Tracking. In that report you will see and event called "Viewport" with three actions; "Width", "Height", and "Size". The label within the action "Size" shows the exact dimensions of the browser viewport size of each visitor to your site.
 
 == Installation ==
 
