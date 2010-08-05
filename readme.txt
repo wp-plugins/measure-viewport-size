@@ -3,7 +3,7 @@ Contributors: beantin
 Tags: plugin, viewport, measure, browser, google, analytics, statstics, google analytics
 Requires at least: 2.8.0
 Tested up to: 3.0.1
-Stable tag: 1.0.2
+Stable tag: trunk
 
 Captures the viewport size of visitors' browser window and stores it as events in Google Analytics
 
@@ -30,6 +30,9 @@ To view the results, log in to your Google Analytics account (but wait a day for
 
 == Changelog ==
 
+= 1.0.2 =
+* Fixed plugin URL & updated readme.
+
 = 1.0.1 =
 * Initial release.
 
@@ -38,8 +41,11 @@ To view the results, log in to your Google Analytics account (but wait a day for
 
 == Upgrade Notice ==
 
-= 1.0.0 =
-First stable release.
+= 1.0.2 =
+No real changes, just text corrections.
+
+= 1.0.1 =
+Initial release.
 
 = 0.0.5 =
 This version is a test version.
