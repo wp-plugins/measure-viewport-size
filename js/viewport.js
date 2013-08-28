@@ -13,8 +13,7 @@ function viewport() {
   myWidth = document.body.clientWidth;
   myHeight = document.body.clientHeight;
   }
-  _gaq.push(['_trackEvent','Viewport','Size',myWidth+'x'+myHeight]);
-  _gaq.push(['_trackEvent','Viewport','Width',myWidth+'x'+myHeight,myWidth]);
-  _gaq.push(['_trackEvent','Viewport','Height',myWidth+'x'+myHeight,myHeight]);
+  _gaq.push(['_trackEvent','Viewport','Size',myWidth+'x'+myHeight,, true]);
+  _gaq.push(['_trackEvent','Viewport','Width',myWidth+'x'+myHeight,myWidth, true]);
+  _gaq.push(['_trackEvent','Viewport','Height',myWidth+'x'+myHeight,myHeight, true]);
 }
-
